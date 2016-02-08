@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Regle {
 	
 	public static void main(String [] arge){
-		puissance(3,7);
 
 		}
 	
@@ -78,7 +77,7 @@ public class Regle {
 	//si trouve à la dernière case fait tout le tableau, ici donc 5
 	//ici on trouve directe donc une execution
 	//ici a la 5 ieme place donc 5 executions
-	//le nombre depend de l'endroit dans le tableau
+	//le nombre d'execution de la boucle depend de l'endroit dans le tableau où se trouve l'élément cherché pour la 1ere fois
 	//
 	
 	
